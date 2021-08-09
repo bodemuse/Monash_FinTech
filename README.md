@@ -2,13 +2,17 @@
 
 ### [Unit 1 - Intro to FinTech](01-Lesson-Plans/01-Intro-to-FinTech)
 
+#### [Day 01](01-Lesson-Plans/01-Intro-to-FinTech/1)
 * [1.1 - Lesson Slides](01-Lesson-Plans/01-Intro-to-FinTech/1/LessonSlides.pdf)
 * [1.1 - Activities](01-Lesson-Plans/01-Intro-to-FinTech/1/Activities)
 
+#### [Day 02](01-Lesson-Plans/01-Intro-to-FinTech/1)
 * [1.2 - Lesson Slides](01-Lesson-Plans/01-Intro-to-FinTech/2/LessonSlides.pdf)
 * [1.2 - Activities](01-Lesson-Plans/01-Intro-to-FinTech/2/Activities)
 
+#### [Day 03](01-Lesson-Plans/01-Intro-to-FinTech/1)
 * [1.3 - Lesson Slides](01-Lesson-Plans/01-Intro-to-FinTech/3/LessonSlides.pdf)
 * [1.3 - Activities](01-Lesson-Plans/01-Intro-to-FinTech/3/Activities)
 
-* [01 - Homework](01-Lesson-Plans/01-Intro-to-FinTech/Homework)
+
+#### [01 - Homework](01-Lesson-Plans/01-Intro-to-FinTech/Homework)
