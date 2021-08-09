@@ -15,4 +15,4 @@
 * [1.3 - Activities](01-Lesson-Plans/01-Intro-to-FinTech/3/Activities)
 
 
-#### [01 - Homework](01-Lesson-Plans/01-Intro-to-FinTech/Homework)
+#### [01 - Homework](02-Homework/01-Intro-to-FinTech/Homework)
