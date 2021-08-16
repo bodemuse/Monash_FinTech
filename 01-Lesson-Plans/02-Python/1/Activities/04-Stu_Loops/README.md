@@ -18,7 +18,7 @@ You've been contacted by your company's HR department to help build employee mor
 
 Output for this activity should resemble the following:
 
-![PyCheer](Images/python-cheer.PNG)
+![PyCheer](Images/python-cheer.png)
 
 ---
 
