@@ -29,4 +29,4 @@
 
 #### [Day 03](01-Lesson-Plans/02-Python/3)
 * [1.3 - Lesson Slides](01-Lesson-Plans/02-Python/3/LessonSlides.pdf)
-* [1.3 - Activities]01-Lesson-Plans/02-Python/3/Activities)
+* [1.3 - Activities](01-Lesson-Plans/02-Python/3/Activities)
