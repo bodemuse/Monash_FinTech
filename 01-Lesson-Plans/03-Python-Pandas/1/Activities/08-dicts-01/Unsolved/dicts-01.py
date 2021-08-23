@@ -23,7 +23,7 @@
 # }
 
 # Re-create the content of the commented out `san_francisco` dictionary by using bracket notation to manually add each of the key-value pairs (including nested objects).
-
+san_francisco = {}
 
 
 
