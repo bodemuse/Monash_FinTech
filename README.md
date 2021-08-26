@@ -36,7 +36,6 @@
 ### [Unit 3 - Python Pandas](01-Lesson-Plans/03-Python-Pandas)
 
 #### [Day 01](01-Lesson-Plans/03-Python-Pandas/1)
-* [1.1 - Lesson Slides](01-Lesson-Plans/03-Python-Pandas/1/LessonSlides.pdf)
 * [1.1 - Activities](01-Lesson-Plans/03-Python-Pandas/1/Activities)
 
 #### [Day 02](01-Lesson-Plans/03-Python-Pandas/2)
@@ -46,3 +45,17 @@
 #### [Day 03](01-Lesson-Plans/03-Python-Pandas/3)
 * [1.3 - Lesson Slides](01-Lesson-Plans/03-Python-Pandas/3/LessonSlides.pdf)
 * [1.3 - Activities](01-Lesson-Plans/03-Python-Pandas/3/Activities)
+
+#### [03 and 04 - Homework](02-Homework/04-Pandas/Homework)
+
+### [Unit 4 - Pandas](01-Lesson-Plans/04-Pandas)
+
+#### [Day 01](01-Lesson-Plans/04-Pandas/1)
+* [1.1 - Lesson Slides](01-Lesson-Plans/04-Pandas/1/LessonSlides.pdf)
+* [1.1 - Activities](01-Lesson-Plans/04-Pandas/1/Activities)
+
+#### [Day 02](01-Lesson-Plans/04-Pandas/2)
+* [1.2 - Activities](01-Lesson-Plans/04-Pandas/2/Activities)
+
+#### [Day 03](01-Lesson-Plans/04-Pandas/3)
+* [1.3 - Activities](01-Lesson-Plans/04-Pandas/3/Activities)
