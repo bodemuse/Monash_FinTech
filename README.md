@@ -59,3 +59,5 @@
 
 #### [Day 03](01-Lesson-Plans/04-Pandas/3)
 * [1.3 - Activities](01-Lesson-Plans/04-Pandas/3/Activities)
+
+#### [03 and 04 - Homework](02-Homework/04-Pandas/Homework)
